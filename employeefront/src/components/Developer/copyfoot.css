@@ -1,0 +1,12 @@
+.foot{
+    background-color: black;
+    color: white;
+    padding: 3% 5%;
+}
+.maxwidth{
+    width: 50%;
+    margin-bottom: 5%;
+}
+.mid{
+    text-align: center;
+}
