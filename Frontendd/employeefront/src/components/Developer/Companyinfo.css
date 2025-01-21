@@ -1,0 +1,34 @@
+.About-con{
+    padding: 50px;
+    background-color: #c8ede9;
+}
+.paradetails{
+    margin-top: -15px;
+    font-size: 16px;
+    text-indent: 40px;
+}
+.begin{
+    display: flex;
+    margin: 4% 20% 3% 20%;
+}
+.bimg{
+    height: 250px;
+    width: 280px;
+}
+.data{
+    margin-left: 10%;
+    width: 280px;
+}
+.data2{
+    margin-right: 10%;
+    width: 280px;
+}
+.centerhome{
+    margin: 4% 20% 3% 20%;
+}
+.values{
+    margin-top: 5%;
+}
+.mid{
+    text-align: center;
+}

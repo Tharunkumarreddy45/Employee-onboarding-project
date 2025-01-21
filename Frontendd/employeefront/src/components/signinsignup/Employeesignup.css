@@ -1,0 +1,37 @@
+.main{
+    background-color: #c8ede9;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signup-page{
+    text-align: center;
+    background-color: rgb(200, 200, 215);
+    width: 500px;
+    height: 482px;
+    margin-bottom: 40px;
+    font-size: 23px;
+    border-radius: 16px;
+}
+.user2, .pass2{
+    border: none;
+    border-bottom: 2px solid white;
+    outline: none;
+    background-color: rgb(200, 200, 215);
+    margin: 20px;
+    font-size: 17px;
+}
+.btn2{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    padding: 8px;
+    width: 150px;
+    margin-top: 20px;
+    font-size: 20px;
+    border-radius: 8px;
+}
+.signup-btn{
+    font-size: 18px;
+}

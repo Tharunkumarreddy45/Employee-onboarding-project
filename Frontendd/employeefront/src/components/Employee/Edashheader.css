@@ -1,0 +1,50 @@
+.logo{
+    height: 70px;
+    width: 70px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.li{
+    list-style-type: none;
+    display: inline-block;
+    color: white;
+    margin: 8px 10px 0px 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+.link{
+    color: white;
+    text-decoration: none;
+}
+.li:hover{
+    cursor: pointer;
+    /* color: black; */
+    background-color: #f4ba38;
+    padding: 1px 10px;
+}
+.header1{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+.header-row{
+    background-color: black;
+}
+.contact-info{
+    display: flex;
+    margin-top: 10px;
+}
+.sub{
+    color: white;
+    font-size: 17px;
+}
+.con{
+    background-color: white;
+    color: black;
+    font-size: 17px;
+    height: 40px;
+    margin: 17px 15px 0px 15px;
+    padding: -50px 0px;
+    border-radius: 9px;
+    cursor: pointer;
+}
